@@ -1,0 +1,16 @@
+.counter{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #0a2b1e;
+}
+.counter_title{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0a2b1e;
+}
+.about_content{
+    padding-left: 50px;
+}
+.hire_btn{
+    letter-spacing: 3px;
+}

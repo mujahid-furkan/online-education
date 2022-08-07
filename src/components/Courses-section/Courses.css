@@ -1,0 +1,30 @@
+.single_course_item{
+   background-color: rgb(243, 252, 252);
+   height: 380px;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+.course_img img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.enroll-btn a{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(12, 83, 83);
+    font-size: .8rem;
+   
+}
+.lession, .student, .rating{
+    font-weight: 600;
+    font-size: .9rem;
+    color: #092e1f;
+}
+.enroll-btn{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 0px 20px;
+}
