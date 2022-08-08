@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/online-education/static/css/main.f2d0ddff.css",
+    "main.js": "/online-education/static/js/main.d0a34e9a.js",
+    "static/js/787.7a6eabf0.chunk.js": "/online-education/static/js/787.7a6eabf0.chunk.js",
+    "static/media/hero-img1.png": "/online-education/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/testimonial01.png": "/online-education/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/online-education/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/online-education/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/online-education/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/online-education/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/online-education/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/online-education/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/online-education/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/online-education/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/online-education/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/online-education/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/online-education/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/online-education/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/online-education/index.html",
+    "main.f2d0ddff.css.map": "/online-education/static/css/main.f2d0ddff.css.map",
+    "main.d0a34e9a.js.map": "/online-education/static/js/main.d0a34e9a.js.map",
+    "787.7a6eabf0.chunk.js.map": "/online-education/static/js/787.7a6eabf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d0ddff.css",
+    "static/js/main.d0a34e9a.js"
+  ]
+}
